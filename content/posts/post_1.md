@@ -1,6 +1,6 @@
 ---
-title: "La cultura en el desarrollo de software"
-date: 2022-03-01
+title: "Mi perspectiva sobre el desarrollo del software"
+date: 2022-04-12
 description: 'Mi perspectiva sobre el desarrollo del software'
 ---
 
